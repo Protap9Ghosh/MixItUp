@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+
+.portfolio img {
+    height: 200px;
+    width: auto;
+    margin: 5px;
+}
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline;
+}
+
+.menu ul li  a {
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-size: 15px;
+    padding: 15px;
+    margin: 40px 8px 0 0;
+    border: 1px solid #590b6d;
+    border-radius: 5px;
+    min-width: 115px;
+    background: #e284c3;
+}
+
+.menu ul li a:hover {
+	background: #b34590;
+}
+
+.myproject {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
